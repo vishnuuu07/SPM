@@ -1,1 +1,2 @@
 This is the SPM section.
+This is an edited document to verify pull command in gitbash.

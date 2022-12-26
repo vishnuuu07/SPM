@@ -1,2 +1,3 @@
 This is the SPM section.
-This is an edited document to verify pull command in gitbash.
+This is an edited document to verify fetch and merge command in gitbash.
+THis is an edited document to verify the push command in gitbash.
